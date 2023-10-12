@@ -92,16 +92,20 @@ strong {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  font-weight: bold;
 }
 
 heading2 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 18px;
+  font-weight: bold;
 }
 
 heading3 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 papertitle {
